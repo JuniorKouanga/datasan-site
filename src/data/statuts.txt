@@ -1,0 +1,157 @@
+[Normal|B] RÉPUBLIQUE DU CONGO
+[Normal|] Unité * Travail * Progrès
+[Heading 1|B] Titre I : Constitution
+[Heading 2|B] Article 1 — Dénomination
+[Normal|] Il est créé, à l'initiative du Membre Fondateur et entre les adhérents aux présents statuts, une organisation scientifique à but non lucratif dénommée :
+[Normal|B] DataSan Systems
+[Normal|] Elle est régie par les lois et règlements en vigueur en République du Congo relatifs aux associations.
+[Heading 2|B] Article 2 — Objet
+[Normal|] DataSan Systems a pour objet, dans le respect de l'intérêt général et de la souveraineté numérique nationale :
+[List Paragraph|L] La promotion et le développement des technologies numériques libres et open source dans les services publics et au bénéfice de l'intérêt général ;
+[List Paragraph|L] La digitalisation et la modernisation des systèmes nationaux d'information (santé, éducation, sport, agriculture, administration publique, environnement, et tout autre secteur d'intérêt public) ;
+[List Paragraph|L] La recherche scientifique appliquée, l'innovation numérique et la veille technologique en matière de systèmes d'information ;
+[List Paragraph|L] La conception, le déploiement, l'adaptation, le paramétrage et l'intégration de plateformes et de solutions numériques — libres et open source de préférence — sans limitation à une technologie ou à un logiciel particulier ;
+[List Paragraph|L] La gouvernance, la qualité, la sécurité, la protection et l'interopérabilité des données ;
+[List Paragraph|L] L'exploration et l'application responsable des technologies émergentes, notamment l'intelligence artificielle, l'analyse de données et les outils d'aide à la décision ;
+[List Paragraph|L] Le renforcement des capacités techniques nationales et le transfert de compétences ;
+[List Paragraph|L] L'extension aux différents secteurs publics des solutions numériques déjà éprouvées ;
+[List Paragraph|L] La promotion de la souveraineté et de l'inclusion numériques nationales.
+[Normal|] L'énumération des secteurs, des technologies et des logiciels mentionnés dans les présents statuts est indicative et non limitative. Les références éventuelles à des solutions particulières (telles que DHIS2, GLPI ou autres) ne valent qu'à titre d'exemples : l'objet de l'association demeure pertinent quelles que soient les évolutions technologiques et n'est lié à aucun outil spécifique.
+[Heading 2|B] Article 3 — Principes fondamentaux
+[Normal|] DataSan Systems est apolitique, non confessionnelle et scientifiquement indépendante.
+[Normal|] Elle privilégie les solutions libres et open source garantissant transparence, interopérabilité, réversibilité et autonomie technologique.
+[Normal|] Elle agit selon les principes de gouvernance responsable, éthique et sécurisée des données, de protection des données personnelles et sensibles, et d'usage responsable des technologies émergentes.
+[Normal|] Elle promeut la transparence de sa gestion, la redevabilité vis-à-vis de ses membres et de ses partenaires, ainsi que la prévention et la gestion des conflits d'intérêts.
+[Heading 2|B] Article 4 — Siège social
+[Normal|] Le siège social est fixé au n°2 rue fauché, quartier BATEKE, non loin du grand marché et le cercle culturel à Dolisie, République du Congo. Il peut être transféré en tout autre lieu du territoire national sur décision du Conseil d'administration.
+[Heading 2|B] Article 5 — Durée
+[Normal|] La durée de l'association est illimitée.
+[Heading 1|B] Titre II : ressources et moyen d’action
+[Heading 2|B] Article 6 — Ressources
+[Normal|] Les ressources de l'association comprennent :
+[List Paragraph|L] Les subventions nationales et internationales ;
+[List Paragraph|L] Les financements de projets ;
+[List Paragraph|L] Les produits des prestations techniques ;
+[List Paragraph|L] Les dons et appuis ;
+[List Paragraph|L] Les cotisations de ses membres.
+[Normal|] L'association fonctionne principalement sur un modèle fondé sur les projets et les subventions.
+[Heading 2|B] Article 7 — Moyens d'action
+[Normal|] Pour atteindre ses objectifs, l'association met en œuvre :
+[List Paragraph|L] Des projets nationaux et internationaux de digitalisation et d'innovation numérique ;
+[List Paragraph|L] Des activités de recherche, d'innovation et de veille technologique, ainsi que la production et la diffusion de connaissances, de standards et de biens communs numériques ;
+[List Paragraph|L] Des formations spécialisées et des certifications ;
+[List Paragraph|L] Des études et recherches scientifiques appliquées ;
+[List Paragraph|L] Des partenariats avec les institutions publiques, privées, académiques et de recherche ;
+[List Paragraph|L] Des réponses aux appels d'offres et aux manifestations d'intérêt ;
+[List Paragraph|L] La mobilisation de subventions et de financements.
+[Heading 1|B] Titre III : membre
+[Heading 2|B] Article 8 — Composition et catégories de membres
+[Normal|] L'association comprend cinq catégories de membres. L'adhésion s'effectue conformément au règlement intérieur ; seuls les membres à jour de leurs obligations disposent des droits attachés à leur catégorie.
+[Normal|] 1. Le Membre Fondateur. Est Membre Fondateur unique de DataSan Systems : Kouanga Mouyaya Deche Junior. Porteur du projet associatif, il fonde officiellement l'association, en assure la Direction exécutive dès la création et est membre de droit du Conseil d'administration.
+[Normal|] 2. Les Membres Associés de première heure. Sont les personnes présentes lors de la création de l'association et associées au projet dès sa genèse. Leur signature des présents statuts atteste de leur adhésion fondatrice et valide les bases de l'organisation. Ils sont éligibles de droit au Conseil d'administration. Sont Membres Associés de première heure : N'Lemveaut Babela El-Jean et Nganguy Farez.
+[Normal|] 3. Les Membres Actifs. Personnes physiques ou morales participant activement aux projets et au fonctionnement de l'association, admises conformément au règlement intérieur.
+[Normal|] 4. Les Membres Partenaires. Partenaires techniques ou institutionnels collaborant avec DataSan Systems.
+[Normal|] 5. Les Membres d'Honneur. Personnalités reconnues pour leur expertise ou leur contribution scientifique.
+[Heading 2|B] Article 9 — Droit de vote
+[Normal|] Les droits de vote attachés à chaque catégorie sont récapitulés ci-dessous. Chaque membre à voix délibérative dispose d'une seule voix. Le droit de vote est personnel ; un membre empêché peut donner procuration écrite à un autre membre à voix délibérative, dans la limite de deux (2) pouvoirs par mandataire.
+[TR] Catégorie de membre | Droit de vote à l'Assemblée générale | Éligibilité au Conseil d'administration
+[TR] Membre Fondateur | Voix délibérative (une voix) | Membre de droit
+[TR] Membres Associés de première heure | Voix délibérative (une voix) | Éligibles de droit
+[TR] Membres Actifs | Voix délibérative (une voix), après six mois d'adhésion effective et à jour de leurs obligations | Éligibles
+[TR] Membres Partenaires | Voix consultative — sans droit de vote | Non éligibles
+[TR] Membres d'Honneur | Voix consultative — sans droit de vote | Non éligibles
+[Normal|] Les Membres Partenaires et les Membres d'Honneur participent aux assemblées avec voix consultative ; ils peuvent être invités et entendus, mais ne prennent pas part aux votes.
+[Heading 2|B] Article 10 — Perte de la qualité de membre
+[Normal|] La qualité de membre se perd par :
+[List Paragraph|L] Démission écrite ;
+[List Paragraph|L] Décès ou dissolution de la personne morale ;
+[List Paragraph|L] Non-respect des obligations statutaires ou, le cas échéant, non-paiement des cotisations ;
+[List Paragraph|L] Radiation pour non-respect des statuts ;
+[List Paragraph|L] Exclusion pour faute grave décidée par le Conseil d'administration après audition de l'intéressé.
+[Heading 1|B] Titre IV : assemblee generale
+[Heading 2|B] Article 11 — Composition et Attibutions
+[Normal|] L’assemblée générale réunit l'ensemble des membres. Les Membres Fondateur, Associés de première heure et Actifs y disposent d'une voix délibérative ; les Membres Partenaires et d'Honneur y siègent avec voix consultative.
+[Normal|] L'Assemblée générale :
+[List Paragraph|L] Approuve les rapports moral, d'activité et financier annuels ;
+[List Paragraph|L] Vote le budget et valide les orientations stratégiques ;
+[List Paragraph|L] Élit les membres du Conseil d'administration parmi les membres éligibles ;
+[List Paragraph|L] Modifie les statuts et décide de la dissolution ;
+[List Paragraph|L] Désigne, le cas échéant, l'auditeur externe ou le commissaire aux comptes.
+[Heading 2|B] Article 12 — Convocation
+[Normal|] L’assemblée générale est convoquée par la Direction exécutive sur mandat du Conseil d'administration, ou directement par le Conseil d'administration. La convocation est adressée par écrit (courrier ou voie électronique) au moins vingt-et-un (21) jours avant une assemblée ordinaire et quinze (15) jours avant une assemblée extraordinaire ; elle mentionne l'ordre du jour, la date, l'heure et le lieu (ou les modalités de participation à distance). Une assemblée générale extraordinaire peut être convoquée à la demande du Conseil d'administration, de la Direction exécutive, ou d'au moins un tiers (1/3) des membres à voix délibérative.
+[Heading 2|B] Article 12 — Périodicité
+[Normal|] L’assemblée générale ordinaire se réunit au moins une fois par an. Les assemblées générales extraordinaires se tiennent chaque fois que l'intérêt de l'association l'exige.
+[Heading 2|B] Article 12 — Quorum et modalités de vote
+[Normal|] Les règles de quorum et de majorité sont les suivantes :
+[TR] Type d'assemblée | Quorum | Majorité requise
+[TR] Assemblée générale ordinaire (AGO) | La moitié (1/2) des membres à voix délibérative, présents ou représentés. Sur seconde convocation : sans condition de quorum. | Majorité simple des voix exprimées
+[TR] Assemblée générale extraordinaire (AGE) | Les deux tiers (2/3) sur première convocation ; la moitié (1/2) sur seconde convocation. | Majorité des deux tiers (2/3) — modification des statuts et dissolution
+[Normal|] Les votes ont lieu à main levée ; le scrutin secret est de droit lorsqu'il est demandé par au moins un tiers des membres présents ou représentés, ou pour toute question relative à des personnes. En cas de partage égal des voix à l'Assemblée générale, la proposition est réputée rejetée. Les délibérations sont consignées dans des procès-verbaux signés par le président de séance et un membre désigné.
+[Heading 1|B] Titre V : conseil d’administration
+[Heading 2|B] Article 15 — Composition et mandat
+[Normal|] Le Conseil d'administration est composé de cinq (5) membres au plus : le Membre Fondateur, membre de droit, et des Membres Associés de première heure ou, à défaut, des Membres Actifs élus par l'Assemblée générale. Le mandat est de trois (3) ans, renouvelable. Le Conseil élit en son sein un président de séance chargé de conduire ses travaux ; cette fonction est distincte de celle de Directeur exécutif, afin de préserver l'équilibre des pouvoirs.
+[Heading 2|B] Article 16 — Attributions
+[Normal|] Le Conseil d'administration :
+[List Paragraph|L] Définit la stratégie et les orientations de l'association ;
+[List Paragraph|L] Approuve le budget annuel ainsi que les comptes annuels avant leur présentation à l'Assemblée générale ;
+[List Paragraph|L] Approuve les partenariats stratégiques et autorise la signature des conventions correspondantes ;
+[List Paragraph|L] Valide les projets et les engagements majeurs ;
+[List Paragraph|L] Fixe les seuils au-delà desquels les actes de la Direction exécutive (engagements financiers, conventions, recrutements permanents, acquisitions importantes) requièrent son autorisation préalable ;
+[List Paragraph|L] Supervise, contrôle et évalue la Direction exécutive ; il peut lui adresser des recommandations et exiger des mesures correctrices ;
+[List Paragraph|L] Adopte et modifie le règlement intérieur ;
+[List Paragraph|L] Arrête l'ordre du jour de l'Assemblée générale et rend compte devant elle.
+[Heading 2|B] Article 17 — Fonctionnement
+[Normal|] Le Conseil d'administration se réunit au moins une fois par trimestre et chaque fois que nécessaire, sur convocation de son président de séance ou de la Direction exécutive, ou à la demande d'au moins un tiers de ses membres. Il ne délibère valablement que si la majorité de ses membres est présente ou représentée. Les décisions sont prises à la majorité simple.
+[Heading 2|B] Article 18 — Voix prépondérante et déport
+[Normal|] En cas de partage égal des voix, celle du Directeur exécutif est prépondérante. Toutefois, cette voix prépondérante ne s'applique pas et le Directeur exécutif ne prend pas part au vote pour les délibérations portant sur le contrôle, l'évaluation, la rémunération ou la cessation de ses propres fonctions, ni sur toute question dans laquelle il a un intérêt personnel, direct ou indirect.
+[Heading 2|B] Article 19 — Gratuité des mandats
+[Normal|] Les fonctions des membres du Conseil d'administration sont exercées à titre bénévole. Toutefois, les membres peuvent être rémunérés dans le cadre de projets spécifiques, selon les financements obtenus et dans le respect des règles de prévention des conflits d'intérêts.
+[Heading 1|B] Titre VI : direction EXÉCUTIVE
+[Heading 2|B] Article 20 — Désignation et compétences
+[Normal|] La Direction exécutive est assurée dès la création par Kouanga Mouyaya Deche Junior, Membre Fondateur et Directeur exécutif.
+[Heading 2|B] Article 21 — Attributions du directeur exécutif
+[Normal|] Le Directeur exécutif :
+[List Paragraph|L] Assure la gestion quotidienne de l'association et exécute les décisions du Conseil d'administration et de l'Assemblée générale ;
+[List Paragraph|L] Représente légalement l'association vis-à-vis des tiers ;
+[List Paragraph|L] Signe les conventions et engage l'association dans la limite des pouvoirs et des seuils fixés par le Conseil d'administration ;
+[List Paragraph|L] Dirige les projets et gère les ressources dans le cadre des budgets approuvés ;
+[List Paragraph|L] Recrute et encadre les équipes projets, dans le respect du règlement intérieur ;
+[List Paragraph|L] Rend compte régulièrement au Conseil d'administration, au moyen de rapports d'activité et financiers, et au moins une fois par an à l'Assemblée générale.
+[Heading 2|B] Article 22 — Limites de pouvoir
+[Normal|] Au-delà des seuils fixés par le Conseil d'administration, les engagements financiers, les conventions stratégiques, la création de postes permanents et les acquisitions importantes requièrent l'autorisation préalable du Conseil. Le Directeur exécutif ne peut, sans cette autorisation, prendre seul de décision engageant durablement l'association au-delà de la gestion courante. Il est évalué annuellement par le Conseil d'administration.
+[Heading 2|B] Article 23 — Structure opérationnelle agile
+[Normal|] DataSan Systems fonctionne selon un modèle flexible reposant sur :
+[List Paragraph|L] Une Unité technique centrale ;
+[List Paragraph|L] Des équipes projets constituées selon les besoins et pour la durée des projets ;
+[List Paragraph|L] Des axes sectoriels : santé, éducation, sport, agriculture, gouvernance numérique et tout autre secteur pertinent.
+[Heading 1|B] Titre VII : finances, transparence et ÉTHIQUE
+[Heading 2|B] Article 24 — Transparence et gestion financière
+[Normal|] La gestion financière de l'association repose sur la transparence, la traçabilité et la conformité aux exigences légales et à celles des bailleurs. À ce titre :
+[List Paragraph|L] Une comptabilité régulière et sincère est tenue, par source de financement lorsque les partenaires l'exigent ;
+[List Paragraph|L] Les comptes de chaque exercice annuel sont arrêtés par la Direction exécutive, examinés et approuvés par le Conseil d'administration, puis soumis à l'Assemblée générale ;
+[List Paragraph|L] Un rapport financier annuel est présenté à l'Assemblée générale et tenu à la disposition des membres ;
+[List Paragraph|L] Au-delà des seuils fixés par le Conseil d'administration, ou lorsque les bailleurs l'exigent, les comptes font l'objet d'un audit externe ou de la désignation d'un commissaire aux comptes ;
+[List Paragraph|L] Toute dépense est engagée conformément aux budgets approuvés et au règlement intérieur, et fait l'objet d'une justification ;
+[List Paragraph|L] L'association publie à ses partenaires — et, le cas échéant, au public — une information financière synthétique, dans un souci de redevabilité.
+[Heading 2|B] Article 25 — Prévention et gestion des conflits d'intérêts
+[Normal|] Définition : Constitue un conflit d'intérêts toute situation dans laquelle l'intérêt personnel, familial, professionnel ou financier, direct ou indirect, d'un membre, d'un administrateur ou d'un dirigeant est susceptible d'influencer l'exercice impartial et objectif de ses fonctions au sein de l'association.
+[Normal|] Obligations : Les personnes concernées sont tenues :
+[List Paragraph|L] De déclarer sans délai, par écrit, tout conflit d'intérêts réel, potentiel ou apparent ;
+[List Paragraph|L] De se retirer des délibérations et de s'abstenir de voter sur la question concernée, sans disposer d'aucune voix prépondérante sur celle-ci ;
+[List Paragraph|L] De ne tirer aucun avantage indu de leur position au sein de l'association.
+[Normal|] Conventions réglementées. Toute convention entre l'association et l'un de ses dirigeants, administrateurs ou une personne qui leur est liée est soumise à l'autorisation préalable du Conseil d'administration statuant hors la présence de l'intéressé, et portée à la connaissance de l'Assemblée générale.
+[Normal|] Registre et sanctions. Un registre des déclarations d'intérêts est tenu par la Direction exécutive et accessible au Conseil d'administration. Tout manquement aux présentes obligations peut donner lieu à une procédure disciplinaire conformément aux statuts et au règlement intérieur.
+[Heading 1|B] Titre VIII : Dispositions finales
+[Heading 2|B] Article 26 — Dissolution
+[Normal|] En cas de dissolution, l'actif net est attribué à une organisation poursuivant des objectifs similaires liés aux technologies numériques ou au développement scientifique.
+[Heading 2|B] Article 27 — Règlement intérieur
+[Normal|] Un règlement intérieur, proposé par la Direction exécutive et adopté par le Conseil d'administration, précise les modalités pratiques de fonctionnement de l'association, dans le respect des présents statuts.
+[Heading 2|B] Article 28 — Modification des statuts
+[Normal|] Les présents statuts ne peuvent être modifiés que par l'Assemblée générale extraordinaire, statuant à la majorité des deux tiers (2/3) des membres présents ou représentés, sur proposition du Conseil d'administration ou d'au moins un tiers (1/3) des membres à voix délibérative.
+[Heading 2|B] Article 29 — Formalités
+[Normal|] Le Directeur exécutif est chargé d'accomplir toutes les formalités administratives nécessaires à la reconnaissance légale de l'association.
+[Normal|] Fait à Dolisie, le
+[Normal|B] SIGNATAIRES DES STATUTS
+[Normal|] Le Membre Fondateur unique
+[Normal|] Fondateur & Directeur exécutif
+[Normal|B] Kouanga Mouyaya Deche Junior

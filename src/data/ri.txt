@@ -1,0 +1,194 @@
+[Normal|B] RÉPUBLIQUE DU CONGO
+[Normal|] Unité * Travail * Progrès
+[Normal|] RÈGLEMENT INTÉRIEUR
+[Normal|] Document organisationnel interne précisant les modalités pratiques d'application des statuts de DataSan Systems — gouvernance, gestion de projets et de l'information, gestion des risques, discipline et annexes évolutives
+[Normal|] Brazzaville, 2026
+[Heading 1|B] Titre I : Dispositions générales
+[Heading 2|B] Article 1 — Objet et portée du règlement intérieur
+[Normal|] Le présent règlement intérieur précise les modalités pratiques d'organisation et de fonctionnement de DataSan Systems, conformément aux statuts. Il s'impose à tous les membres et à toute personne intervenant pour le compte de l'association.
+[Normal|] Il est complété par des annexes évolutives (charte éthique, politique de protection des données, et autres politiques et modèles) adoptées par le Conseil d'administration. En cas de divergence, les statuts prévalent sur le présent règlement, qui prévaut sur les annexes.
+[Heading 1|B] Titre II : Adhésion et engagement des membres
+[Heading 2|B] Article 2 — Procédure d'adhésion
+[Normal|] Toute demande d'adhésion doit :
+[List Paragraph|L] Être formulée par écrit ;
+[List Paragraph|L] Être approuvée par la Direction exécutive ;
+[List Paragraph|L] Être validée par le Conseil d'administration.
+[Normal|] L'adhésion implique l'acceptation des statuts, du présent règlement intérieur et de ses annexes.
+[Heading 2|B] Article 3 — Engagement éthique
+[Normal|] Chaque membre s'engage à :
+[List Paragraph|L] Respecter les principes d'indépendance scientifique ;
+[List Paragraph|L] Promouvoir les solutions libres et open source ;
+[List Paragraph|L] Préserver la confidentialité des données sensibles ;
+[List Paragraph|L] Éviter tout conflit d'intérêts ;
+[List Paragraph|L] Respecter l'image et la réputation de DataSan Systems ;
+[List Paragraph|L] Adhérer à la charte éthique figurant en annexe A.
+[Heading 1|B] Titre III : Gouvernance et fonctionnement des instances
+[Heading 2|B] Article 4 — Instances et principes de fonctionnement
+[Normal|] Les instances de l'association sont l'Assemblée générale, le Conseil d'administration et la Direction exécutive, dont les rôles sont définis par les statuts. Le présent titre précise les règles pratiques communes de convocation, de quorum, de délibération et de suivi des décisions. Peuvent également être institués, à titre opérationnel, un comité de pilotage de programme (COPIL), une unité de gestion de programme (UGP) et des comités de projet, dont le fonctionnement suit les mêmes principes.
+[Normal|] Le fonctionnement des instances repose sur la régularité des réunions, la transparence de l'ordre du jour, la traçabilité des décisions et l'équilibre des pouvoirs voulu par les statuts.
+[Heading 2|B] Article 5 — Convocation des réunions
+[Normal|] Toute réunion fait l'objet d'une convocation écrite (courrier ou voie électronique) mentionnant la date, l'heure, le lieu ou les modalités de participation à distance, ainsi que l'ordre du jour et, le cas échéant, les documents préparatoires. Les délais minimaux de convocation et les règles de quorum sont récapitulés ci-dessous ; ceux de l'Assemblée générale et du Conseil d'administration sont fixés par les statuts et rappelés ici pour mémoire.
+[TR] Instance | Fréquence minimale | Délai de convocation | Quorum
+[TR] Assemblée générale ordinaire | Une fois par an | 21 jours | 1/2 des voix délibératives ; sans quorum sur 2ᵉ convocation
+[TR] Assemblée générale extraordinaire | Selon les besoins | 15 jours | 2/3 puis 1/2 sur 2ᵉ convocation
+[TR] Conseil d'administration | Une fois par trimestre | 10 jours (3 jours en cas d'urgence) | Majorité de ses membres
+[TR] Comité de pilotage (COPIL) | Trimestrielle | 10 jours | Majorité des membres
+[TR] Unité technique / comités de projet | Mensuelle | 3 jours | Selon l'effectif de l'équipe
+[Normal|] En cas d'urgence dûment justifiée, le délai de convocation du Conseil d'administration et des comités opérationnels peut être réduit, à condition que tous les membres concernés en soient informés et n'y fassent pas objection.
+[Heading 2|B] Article 6 — Quorum, représentation et participation à distance
+[Normal|] Une réunion ne délibère valablement que si le quorum applicable est atteint, les membres présents ou représentés étant comptabilisés. Le droit de vote est personnel ; un membre empêché peut donner procuration écrite à un autre membre habilité, dans la limite de deux (2) pouvoirs par mandataire.
+[Normal|] La participation à distance (visioconférence ou moyen équivalent permettant l'identification et la participation effective) est autorisée et compte pour le quorum. À défaut de quorum, une nouvelle réunion est convoquée conformément aux statuts ou, pour les instances opérationnelles, dans un délai raisonnable.
+[Heading 2|B] Article 7 — Déroulement des réunions, décisions et votes
+[Normal|] Les réunions sont conduites par un président de séance qui veille au respect de l'ordre du jour et à l'expression de chacun. Les décisions sont prises selon les majorités prévues par les statuts ; pour les instances opérationnelles, elles sont prises à la majorité simple des présents, la recherche du consensus étant privilégiée.
+[Normal|] Le vote a lieu à main levée ; le scrutin secret est de droit lorsqu'il est demandé par un tiers des présents ou pour toute question relative à des personnes. Tout membre en situation de conflit d'intérêts se déporte et ne prend pas part au vote sur la question concernée, conformément à l'article 17 des statuts.
+[Heading 2|B] Article 8 — Procès-verbaux, relevés de décisions et suivi
+[Normal|] Chaque réunion donne lieu à un procès-verbal ou à un relevé de décisions, signé par le président de séance et un membre désigné, mentionnant les présents, l'ordre du jour, les décisions et les responsables et échéances associés. Un tableau de suivi des décisions est tenu et mis à jour ; son avancement est examiné à la réunion suivante.
+[Normal|] Les procès-verbaux et relevés de décisions sont archivés et conservés conformément à la politique documentaire (titre VI).
+[Heading 2|B] Article 9 — Registres et confidentialité des délibérations
+[Normal|] La Direction exécutive tient à jour les registres de l'association : registre des membres, registre des délibérations, registre des déclarations d'intérêts et registre des risques. Sauf décision contraire, les débats revêtent un caractère confidentiel ; seules les décisions et informations expressément rendues publiques peuvent être communiquées à des tiers.
+[Heading 1|B] Titre IV : Organisation opérationnelle
+[Heading 2|B] Article 10 — Unité technique centrale
+[Normal|] L'Unité technique centrale coordonne :
+[List Paragraph|L] L'architecture des systèmes ;
+[List Paragraph|L] Les standards techniques ;
+[List Paragraph|L] La qualité scientifique des projets ;
+[List Paragraph|L] L'interopérabilité des solutions déployées ;
+[List Paragraph|L] La sécurité et la protection des données, en lien avec le référent désigné.
+[Normal|] Elle agit sous l'autorité du Directeur exécutif.
+[Heading 2|B] Article 11 — Équipes projets
+[Normal|] Les équipes projets :
+[List Paragraph|L] Sont constituées selon les besoins ;
+[List Paragraph|L] Ont un mandat limité à la durée du projet ;
+[List Paragraph|L] Fonctionnent avec un chef de projet désigné ;
+[List Paragraph|L] Rendent compte à la Direction exécutive.
+[Normal|] Chaque projet fait l'objet d'un document de cadrage, d'un budget validé, d'un dispositif de suivi-évaluation (titre V) et d'un rapport technique et financier final.
+[Heading 2|B] Article 12 — Axes sectoriels
+[Normal|] DataSan Systems peut structurer ses activités autour de pôles : santé numérique ; éducation numérique ; sport et jeunesse ; agriculture numérique ; gouvernance et systèmes publics ; et tout autre axe pertinent. Chaque axe peut disposer d'un coordinateur technique.
+[Heading 1|B] Titre V : Cycle de projet et suivi-évaluation
+[Heading 2|B] Article 13 — Cycle de vie des projets
+[Normal|] Tout projet suit un cycle structuré : cadrage, planification, exécution, suivi-évaluation continu, clôture et capitalisation. Le passage d'une phase à l'autre est subordonné à la validation des livrables de la phase précédente par la Direction exécutive et, pour les projets majeurs, par le Conseil d'administration ou le comité de pilotage compétent.
+[Heading 2|B] Article 14 — Document de cadrage
+[Normal|] Chaque projet débute par un document de cadrage précisant au minimum : les objectifs, le périmètre, les parties prenantes, les livrables, le calendrier, le budget, les ressources humaines, les risques identifiés et le dispositif de suivi-évaluation. Ce document est validé avant tout engagement de dépenses.
+[Heading 2|B] Article 15 — Suivi-évaluation de chaque projet
+[Normal|] Chaque projet est doté d'un dispositif de suivi-évaluation proportionné à sa taille, garantissant le pilotage par la donnée et la redevabilité vis-à-vis des partenaires. Ce dispositif comprend au minimum les éléments suivants :
+[TR] Élément | Contenu attendu
+[TR] Cadre de résultats | Chaîne objectifs → résultats → activités, avec indicateurs mesurables
+[TR] Indicateurs | Indicateurs de réalisation, de résultat et, si pertinent, d'impact, désagrégés (genre, zone, situation de handicap)
+[TR] Valeurs de référence et cibles | Situation de départ et cibles datées, établies au cadrage
+[TR] Fréquence de collecte | Périodicité de mesure et sources de données pour chaque indicateur
+[TR] Revues | Revues périodiques d'avancement et revue de clôture
+[TR] Responsabilité | Responsable du suivi-évaluation désigné pour le projet
+[Normal|] Les données de suivi sont collectées de manière fiable et documentée ; les écarts significatifs entre cibles et réalisations donnent lieu à une analyse et à des mesures correctrices consignées dans le tableau de suivi des décisions.
+[Heading 2|B] Article 16 — Rapportage, clôture et capitalisation
+[Normal|] Chaque projet produit des rapports d'avancement selon la périodicité convenue avec les partenaires, ainsi qu'un rapport technique et financier final. La clôture donne lieu à un bilan (objectifs atteints, enseignements, recommandations) et à l'archivage complet du dossier de projet, afin de capitaliser les acquis et de nourrir les projets suivants.
+[Heading 1|B] Titre VI : Politique documentaire et gestion de l'information
+[Heading 2|B] Article 17 — Principes de gestion documentaire
+[Normal|] En tant qu'organisation intervenant sur les systèmes d'information, DataSan Systems applique une gestion documentaire rigoureuse fondée sur : l'existence d'une source unique et fiable pour chaque document ; la traçabilité des versions ; la protection selon le niveau de sensibilité ; et l'accessibilité pour les personnes habilitées. Ces principes s'appliquent aux documents institutionnels, techniques, contractuels et de projet.
+[Heading 2|B] Article 18 — Nomenclature, versionnage et référentiel documentaire
+[Normal|] Les documents suivent une nomenclature harmonisée (type de document, projet, date, version) définie dans la politique documentaire détaillée (annexe). Chaque document engageant l'association porte un numéro de version et une date ; les modifications significatives font l'objet d'une nouvelle version, l'historique étant conservé. Un référentiel documentaire recense les documents de référence et leur emplacement.
+[Heading 2|B] Article 19 — Classification, confidentialité et accès
+[Normal|] Tout document est classé selon son niveau de sensibilité, qui détermine les droits d'accès :
+[TR] Niveau | Description | Accès
+[TR] Public | Diffusable librement | Sans restriction
+[TR] Interne | Usage interne à l'association | Membres et intervenants
+[TR] Confidentiel | Contrats, données de projet, éléments stratégiques | Personnes habilitées, sur autorisation
+[TR] Restreint / données personnelles | Données personnelles ou sensibles (santé, mineurs) | Strict besoin d'en connaître, mesures de sécurité renforcées
+[Normal|] L'accès aux documents confidentiels et restreints est accordé par rôle et journalisé. Le traitement des données personnelles est régi par la politique de protection des données (annexe B).
+[Heading 2|B] Article 20 — Conservation, archivage et traçabilité
+[Normal|] Les documents sont conservés pendant la durée requise par les obligations légales, contractuelles et les exigences des bailleurs, puis archivés ou supprimés de façon sécurisée. Des sauvegardes régulières sont réalisées et testées. La traçabilité des accès et des modifications aux documents sensibles est assurée.
+[Heading 1|B] Titre VII : Gestion des risques
+[Heading 2|B] Article 21 — Principes et périmètre
+[Normal|] DataSan Systems met en œuvre une gestion des risques proportionnée, visant à identifier, évaluer, traiter et surveiller les risques susceptibles d'affecter ses activités, ses projets, ses données et sa réputation. La gestion des risques est intégrée au cycle de projet et à la gouvernance de l'association.
+[Heading 2|B] Article 22 — Registre des risques et évaluation
+[Normal|] Un registre des risques est tenu au niveau de l'association et de chaque projet majeur. Chaque risque y est décrit, évalué selon sa probabilité et son impact, et affecté à un responsable. Les principales catégories de risques sont les suivantes :
+[TR] Catégorie | Exemples | Responsable typique
+[TR] Technique | Panne, perte de données, faille de sécurité, faible connectivité | Unité technique centrale
+[TR] Financier | Retard ou insuffisance de financement, dépassement budgétaire | Direction exécutive / RAF
+[TR] Données et conformité | Fuite de données, non-conformité, données de mineurs | Référent protection des données
+[TR] Institutionnel | Changement de tutelle, défaut d'appropriation | Direction exécutive / COPIL
+[TR] Opérationnel | Rotation du personnel formé, dérive de calendrier | Chef de projet
+[Normal|] La criticité d'un risque résulte du croisement de sa probabilité (faible, moyenne, élevée) et de son impact (faible, moyen, élevé). Les risques de criticité élevée font l'objet d'un traitement prioritaire.
+[Heading 2|B] Article 23 — Traitement des risques et revue périodique
+[Normal|] Pour chaque risque significatif, une mesure de traitement est définie (éviter, réduire, transférer ou accepter) et un plan d'action assorti d'un responsable et d'une échéance est établi. Le registre des risques est revu périodiquement — au moins à chaque session ordinaire du Conseil d'administration ou du comité de pilotage — et actualisé en fonction de l'évolution des projets.
+[Heading 1|B] Titre VIII : Gestion financière
+[Heading 2|B] Article 24 — Principes de gestion
+[Normal|] La gestion financière repose sur la transparence, la traçabilité et la conformité aux exigences des bailleurs, en cohérence avec la politique de transparence financière prévue par les statuts (article 16).
+[Heading 2|B] Article 25 — Budgets projets
+[Normal|] Chaque projet dispose d'un budget distinct, d'un suivi financier dédié et d'un rapport d'exécution. Les dépenses doivent être validées par le Directeur exécutif, dans la limite des seuils fixés par le Conseil d'administration.
+[Heading 2|B] Article 26 — Rémunération dans les projets
+[Normal|] Les membres peuvent être rémunérés dans le cadre de projets financés selon les barèmes définis par les partenaires, les ressources disponibles et les responsabilités exercées, dans le respect des règles de prévention des conflits d'intérêts.
+[Heading 1|B] Titre IX : Communication et partenariats
+[Heading 2|B] Article 27 — Représentation officielle
+[Normal|] Seul le Directeur exécutif, ou toute personne mandatée par écrit, peut engager officiellement l'association, signer des conventions et représenter DataSan Systems auprès des institutions.
+[Heading 2|B] Article 28 — Partenariats
+[Normal|] Tout partenariat stratégique doit être validé par le Conseil d'administration et formalisé par une convention écrite.
+[Heading 1|B] Titre X : Discipline et sanctions
+[Heading 2|B] Article 29 — Fautes disciplinaires
+[Normal|] Constituent notamment des fautes :
+[List Paragraph|L] La violation des principes open source de l'association ;
+[List Paragraph|L] L'utilisation abusive du nom ou du logo de DataSan Systems ;
+[List Paragraph|L] La mauvaise gestion de fonds projets ;
+[List Paragraph|L] La divulgation non autorisée de données sensibles ou personnelles ;
+[List Paragraph|L] Le manquement à la charte éthique ou à la politique de protection des données.
+[Heading 2|B] Article 30 — Procédure disciplinaire
+[Normal|] Avant toute sanction, le membre concerné est entendu et le Conseil d'administration statue à la majorité. Les sanctions peuvent aller de l'avertissement à l'exclusion, dans le respect des statuts.
+[Heading 1|B] Titre XI : Annexes évolutives
+[Heading 2|B] Article 31 — Régime des annexes
+[Normal|] Le présent règlement est complété par des annexes qui en précisent l'application opérationnelle. Ces annexes sont adoptées et modifiées par le Conseil d'administration, sur proposition de la Direction exécutive, sans qu'il soit nécessaire de modifier les statuts ni le corps du présent règlement. Elles peuvent ainsi évoluer au rythme des besoins, des projets et des évolutions technologiques ou réglementaires.
+[Heading 2|B] Article 32 — Liste des annexes
+[Normal|] Les annexes en vigueur sont :
+[List Paragraph|L] Annexe A — Charte éthique : principes de conduite auxquels adhèrent les membres et intervenants ;
+[List Paragraph|L] Annexe B — Politique de protection des données : règles de traitement et de protection des données personnelles et sensibles ;
+[List Paragraph|L] Annexe C — Politique documentaire détaillée : nomenclature, versionnage, classification et archivage (à adopter) ;
+[List Paragraph|L] Annexe D — Cadre de gestion des risques : méthodologie, échelles et modèle de registre (à adopter) ;
+[List Paragraph|L] Annexe E — Modèles de documents projet : document de cadrage, cadre de résultats, rapports type (à adopter).
+[Normal|] La liste ci-dessus peut être complétée par le Conseil d'administration. Les annexes A et B figurent à la suite du présent règlement.
+[Heading 1|B] Titre XII : Dispositions finales
+[Heading 2|B] Article 33 — Modification du règlement intérieur
+[Normal|] Le présent règlement intérieur peut être modifié par le Conseil d'administration, sur proposition de la Direction exécutive.
+[Heading 2|B] Article 34 — Entrée en vigueur
+[Normal|] Le présent règlement intérieur entre en vigueur dès son adoption.
+[Normal|] Fait à Brazzaville, le
+[Normal|B] Le Directeur exécutif, chargé de veiller à son application
+[Normal|B] Contreseing (représentant des membres)
+[Heading 1|B] Annexe A — Charte éthique
+[Normal|] La présente charte énonce les principes de conduite auxquels adhèrent tous les membres et intervenants de DataSan Systems. Elle peut évoluer par décision du Conseil d'administration.
+[List Paragraph|L] Intégrité et indépendance scientifique. Agir avec honnêteté intellectuelle, fonder les recommandations sur des données et des méthodes rigoureuses, préserver l'indépendance vis-à-vis de tout intérêt particulier.
+[List Paragraph|L] Priorité au libre et à l'open source. Promouvoir les solutions libres, l'interopérabilité, la réversibilité et les biens communs numériques, et lutter contre l'enfermement propriétaire.
+[List Paragraph|L] Confidentialité et protection des données. Protéger les données personnelles et sensibles, en particulier celles des mineurs, conformément à la politique de protection des données.
+[List Paragraph|L] Prévention des conflits d'intérêts. Déclarer et gérer tout conflit d'intérêts réel, potentiel ou apparent, et se déporter le cas échéant.
+[List Paragraph|L] Respect des personnes et non-discrimination. Traiter chacun avec respect, sans discrimination, et veiller à l'équité et à l'inclusion.
+[List Paragraph|L] Usage responsable des technologies émergentes. Recourir à l'intelligence artificielle et à l'analyse de données de manière transparente, proportionnée et respectueuse des droits.
+[List Paragraph|L] Transparence et redevabilité. Rendre compte de l'usage des ressources et des résultats, vis-à-vis des membres, des bénéficiaires et des partenaires.
+[List Paragraph|L] Respect de l'image de l'association. N'engager le nom et le logo de DataSan Systems que dans le cadre autorisé.
+[Normal|] Le non-respect de la présente charte peut donner lieu à une procédure disciplinaire conformément au règlement intérieur.
+[Heading 1|B] Annexe B — Politique de protection des données
+[Normal|] La présente politique définit les règles applicables au traitement des données personnelles et sensibles par DataSan Systems, dans le respect des lois en vigueur en République du Congo et des exigences des partenaires. Elle peut évoluer par décision du Conseil d'administration.
+[Heading 2|B] 1. Champ d'application
+[Normal|] La politique s'applique à toutes les données personnelles et sensibles traitées dans le cadre des activités et des projets de l'association, notamment les données relatives aux bénéficiaires, aux jeunes talents, aux élèves et, le cas échéant, aux données de santé des athlètes.
+[Heading 2|B] 2. Principes
+[List Paragraph|L] Licéité, loyauté et transparence du traitement ;
+[List Paragraph|L] Finalité déterminée, explicite et légitime ;
+[List Paragraph|L] Minimisation : seules les données nécessaires sont collectées ;
+[List Paragraph|L] Exactitude et mise à jour des données ;
+[List Paragraph|L] Limitation de la durée de conservation ;
+[List Paragraph|L] Intégrité, confidentialité et sécurité ;
+[List Paragraph|L] Responsabilité et capacité à démontrer la conformité.
+[Heading 2|B] 3. Rôles et responsabilités
+[Normal|] Dans les projets publics, le responsable de traitement est en principe l'institution partenaire (par exemple le Ministère concerné) ; DataSan Systems agit comme opérateur technique ou sous-traitant, selon les termes convenus. L'association désigne un référent chargé de la protection des données, garant de l'application de la présente politique.
+[Heading 2|B] 4. Droits des personnes
+[Normal|] Les personnes concernées disposent, dans les conditions prévues par le cadre applicable, d'un droit d'information, d'accès, de rectification, d'effacement et d'opposition. Les demandes sont traitées dans des délais raisonnables et documentées.
+[Heading 2|B] 5. Sécurité
+[List Paragraph|L] Contrôle des accès par rôle et authentification ;
+[List Paragraph|L] Chiffrement des données sensibles au repos et en transit lorsque c'est pertinent ;
+[List Paragraph|L] Journalisation des accès aux données sensibles ;
+[List Paragraph|L] Sauvegardes régulières et testées, plan de reprise ;
+[List Paragraph|L] Sensibilisation des intervenants.
+[Heading 2|B] 6. Données des mineurs
+[Normal|] Les données relatives aux mineurs font l'objet de protections renforcées : minimisation stricte, accès très restreint, et encadrement particulier de toute réutilisation.
+[Heading 2|B] 7. Sous-traitance et transferts
+[Normal|] Tout recours à un prestataire ou hébergeur traitant des données pour le compte de l'association est encadré contractuellement, avec des garanties de sécurité et de confidentialité appropriées.
+[Heading 2|B] 8. Conservation et suppression
+[Normal|] Les données sont conservées pour la seule durée nécessaire aux finalités et aux obligations applicables, puis supprimées ou anonymisées de façon sécurisée.
+[Heading 2|B] 9. Violation de données
+[Normal|] Toute violation de données (perte, accès non autorisé, divulgation) est signalée sans délai au référent et à la Direction exécutive, documentée, et notifiée aux personnes et autorités concernées lorsque le cadre applicable l'exige.
