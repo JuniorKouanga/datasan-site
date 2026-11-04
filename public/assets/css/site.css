@@ -214,7 +214,7 @@ p{margin:0 0 1em}
 .pole ul{list-style:none;padding:0;margin:8px 0 0}
 .pole li{font-size:.92rem;color:var(--muted);padding:5px 0}
 .pole b{color:var(--ink);font-weight:600}
-.milestones{list-style:none;padding:0;margin:28px 0 0;display:grid;grid-template-columns:repeat(4,1fr);position:relative}
+.milestones{list-style:none;padding:0;margin:28px 0 0;display:grid;grid-template-columns:repeat(5,1fr);position:relative}
 .milestones::before{content:"";position:absolute;left:0;right:0;top:8px;height:2px;background:var(--line)}
 .milestones li{padding:30px 24px 0 0;position:relative}
 .milestones li::before{content:"";position:absolute;left:0;top:1px;width:16px;height:16px;border-radius:50%;background:var(--navy);border:3px solid var(--tint)}

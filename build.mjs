@@ -11,7 +11,7 @@ const legal = {
   statuts: JSON.parse(readFileSync(join(SRC, 'data', 'statuts.json'), 'utf8')),
   ri: JSON.parse(readFileSync(join(SRC, 'data', 'ri.json'), 'utf8')),
 };
-const version = '20261102';
+const version = '20261104';
 
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const fmtDate = (iso) => new Date(iso + 'T12:00:00Z').toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
